@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# TRAVEL BOOKING WEBSITE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### this webiste is build using REACTJS this is specially desined to showcase my UI desining skills using REACT framework
 
-In the project directory, you can run:
+#### this site is divided into threee componenets 
+  - [header]
+  - [content]
+  - [footer]
+  - 
+### below are some of the images of the website
 
-### `npm start`
+### this is header section in which you can login/register to the website
+### also you can see stays,book flights car rentals and book airport taxis
+### as well as you can search according to your data range and place in search bar
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img width="1440" alt="bs-1" src="https://github.com/chaitanyakatore/Travel_Booking/assets/106269976/09993e13-18b7-48b7-b833-18e76ada386e">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### second section consists of the hotels,apartemnets,resorts and villas images for booking withe rate
 
-### `npm test`
+<img width="1440" alt="bs-2" src="https://github.com/chaitanyakatore/Travel_Booking/assets/106269976/ba0f523d-b71d-47b9-b73d-d45807f91af3">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### this section is footer secion where you contact us and also consists of the subriction and contact details
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1440" alt="bs-3" src="https://github.com/chaitanyakatore/Travel_Booking/assets/106269976/c63612fd-faf6-4470-9cd8-1cc2e6726425">
