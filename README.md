@@ -7,7 +7,7 @@
   - [header]
   - [content]
   - [footer]
-  - 
+    
 ### below are some of the images of the website
 
 ### this is header section in which you can login/register to the website
